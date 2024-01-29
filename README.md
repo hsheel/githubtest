@@ -1,6 +1,12 @@
 # githubtest
 
+outline of the project 
+
+
 Description of the project 
 
+Features 
 
-outline of the project 
+Authors
+
+Acknowledgment 

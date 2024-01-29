@@ -10,3 +10,5 @@ Features
 Authors
 
 Acknowledgment 
+
+The site was built using [] for creating inline link [https://www.linkedin.com/feed/]

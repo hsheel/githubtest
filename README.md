@@ -11,4 +11,6 @@ Authors
 
 Acknowledgment 
 
-The site was built using [gitbub pages] url for creating inline link [Gitbub pages] (https://www.linkedin.com/feed/)
+The site was built using [gitbub pages] url for creating inline link
+
+[Gitbub pages](https://www.linkedin.com/feed/)
